@@ -1,0 +1,27 @@
+
+header {
+    position: fixed;
+    width: 100%;
+    justify-content: center;
+}
+
+header ul{
+    text-align: right;
+    margin: 20px;
+    padding: 20px;
+    /* position: relative; */
+}
+
+header ul li {
+    display: inline-block;
+    width: 100px;
+    /* background-color: rgb(197, 209, 197); */
+    font-size: 17px;
+    text-align: center;
+    height: 30px;
+    text-decoration-line:unset;
+    /* position: absolute;
+    left: 50%;
+    right: 50%;
+    transform: translate(-50%, -50%); */
+}
